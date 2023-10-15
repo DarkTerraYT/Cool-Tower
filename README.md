@@ -5,6 +5,8 @@
 
 <h1 align="center">???</h1>
 
+<h1 aling="left"><img alt="GitHub all releases" height="25" src="https://img.shields.io/github/downloads/DarkTerraYT/Cool-Tower/total?label=Total%20Dowloads"></h1>
+
 This is a weird mod
 
 Comes with 15 unique upgrades and 1 paragon
