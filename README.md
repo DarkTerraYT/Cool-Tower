@@ -11,4 +11,6 @@ This is a weird mod
 
 Comes with 15 unique upgrades and 1 paragon
 
+Also made by Mattcy1
+
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
